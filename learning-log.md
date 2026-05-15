@@ -70,3 +70,17 @@ Things i found confusing
 -remembering command syntax 
 -how shell output redirection works 
 
+Day 3 
+Today I learned about packaging and shipping code
+
+I learned 
+-what dependencies are
+-why virtual enviroments are useful
+-basixc concepts of versioning and containers
+
+Important concepts
+-dependencies 
+-virtual environments
+-semantic versioning 
+-containers
+
