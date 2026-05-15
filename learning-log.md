@@ -33,6 +33,34 @@ Commands i practiced
 -cat
 -nano
 
+Day 3
+Today I focused on learning Git and GitHub workflows from the Missing Semester lectures
+I learned
+-what version control is 
+-why git is useful for tracking changes
+-how repositories work
+-the difference between local and remote repositories
+-how to connect a local project to github
+
+I practiced
+-creating a git repository from the command line
+-checking repository status
+-adding fies to staging
+-committing changes
+-pushing updates to github
+
+commands I used 
+-git init
+-git add
+-git status
+-git push
+-git commit
+-git remote -v
+I also created a prcatice repository to experiment with git commands and understand how commits work
+
+Things I found confusing
+-remembering the order of github commands
+-understanding staging vs committing
 I also practiced
 - using > and >> to write into files
 -creating simple practice files
