@@ -1,0 +1,4 @@
+-asked Claude to help install Docker
+-Got an error with server,js (comma instead of dot) 
+-Quoteswere wrong in server,js, had to fix them
+-Evertually got Hello world working with curl
