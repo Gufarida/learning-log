@@ -1,0 +1,24 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gufarida/learning-log.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gufarida/learning-log/issues"
+  },
+  "homepage": "https://github.com/Gufarida/learning-log#readme",
+  "dependencies": {
+    "@google-cloud/secret-manager": "^6.1.2"
+  }
+}
